@@ -32,9 +32,8 @@
     <!-- 读取缓存数据 -->
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <!-- 获取模拟定位信息 -->
-    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION"/>
 
-   <application
+    <application
         android:label="flutter_bmflocation_example"
         android:name=".MyApplication"
         android:allowBackup="true"
